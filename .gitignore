@@ -13,3 +13,4 @@ config.dev.json
 *.tar.gz
 *.tar
 *.mmdb
+*.sln.DotSettings.user

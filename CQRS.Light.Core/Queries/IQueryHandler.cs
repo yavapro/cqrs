@@ -1,4 +1,4 @@
-namespace CQRS.Core.Queries
+namespace CQRS.Light.Core.Queries
 {
     using System.Threading.Tasks;
 

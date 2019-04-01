@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>CQRS.Light</PackageId>
+        <PackageVersion>0.0.3</PackageVersion>
+        <Title>CQRS.Light</Title>
+        <Authors>Vladimir Yarovenko &lt;yavapro@gmail.com&gt;</Authors>
+        <Description>CQRS base solution</Description>
+    </PropertyGroup>
+
+</Project>
