@@ -1,10 +1,4 @@
-# CQRS.Light
-
-CQRS.Light is a .NET library for creating CQRS base communication.
-
-## License
-
-MIT License
+﻿MIT License
 
 Copyright (c) 2019-2021 Yarovenko Vladimir
 
